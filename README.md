@@ -1,9 +1,5 @@
 ![image](https://github.com/sainakka5/1st_file/assets/136338958/767bbe5c-9fef-44ac-b35a-104f2c5c43cd)
 
-
-![image](https://github.com/sainakka5/1st_file/assets/136338958/9607b7d7-d465-4c35-9a4f-309d0777928a)
-
-
 Linux Basics and Practice repo 
 
 ![Screenshot 2024-02-23 153603](https://github.com/sainakka5/1st_file/assets/136338958/32af8d7c-3341-4b2d-93c0-1494cf32d1c6)
